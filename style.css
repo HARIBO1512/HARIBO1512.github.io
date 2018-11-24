@@ -1,0 +1,32 @@
+body
+{
+	text-align: center;
+background-image: url('mars.jpg');
+background-size: 100%;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+h1
+{
+	font-size: 500%;
+	font-family: Century Gothic;
+	color: blue;
+}
+.movies img
+{
+	width: 400px;
+	height: 400px;
+}
+p
+{
+	font-family: Bradley Hand;
+	color: white;
+}
+.step a{
+	text-decoration: none;
+	text-align: center;
+	color: white;
+	font-size: 30px;
+	font-family: Bradley Hand;
+
+}
